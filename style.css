@@ -1,0 +1,32 @@
+.recherche{
+  background-color: white;
+  margin-top: 6%;
+}
+.logo-menu{
+   background-color: #efefef;
+   margin: -2%;
+   padding-left: 20%;
+   padding-bottom: 10%;
+   font-family: 'Gill Sans MT';
+}
+#logo{
+   vertical-align: 3%;
+   padding-left: 30%;
+   width: 200px;
+   height: 150px;
+}
+li{
+   display: inline;
+   color: black;
+   text-align: center;
+   padding: 4%;
+   float: left;
+   text-decoration: none;
+}
+li a{
+   text-decoration: none;
+   color: black;
+}
+.produit{
+   position: relative;
+}
